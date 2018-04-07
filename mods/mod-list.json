@@ -33,10 +33,6 @@
       "enabled": true
     },
     {
-      "name": "AfraidOfTheDark",
-      "enabled": true
-    },
-    {
       "name": "air-filtering",
       "enabled": true
     },
@@ -221,6 +217,10 @@
       "enabled": true
     },
     {
+      "name": "Flow Control",
+      "enabled": true
+    },
+    {
       "name": "fluid-void-extra",
       "enabled": true
     },
@@ -253,11 +253,19 @@
       "enabled": true
     },
     {
+      "name": "Honk",
+      "enabled": true
+    },
+    {
       "name": "Inventory Sensor",
       "enabled": true
     },
     {
       "name": "Larger Inventory Updated",
+      "enabled": true
+    },
+    {
+      "name": "LightedPolesPlus",
       "enabled": true
     },
     {
@@ -282,6 +290,10 @@
     },
     {
       "name": "ModuleInserter",
+      "enabled": true
+    },
+    {
+      "name": "morebobs",
       "enabled": true
     },
     {
@@ -313,6 +325,14 @@
       "enabled": true
     },
     {
+      "name": "Rampant",
+      "enabled": true
+    },
+    {
+      "name": "ShinyIcons",
+      "enabled": true
+    },
+    {
       "name": "smoother-start",
       "enabled": true
     },
@@ -321,7 +341,15 @@
       "enabled": true
     },
     {
+      "name": "stupidly-awesome-fuel",
+      "enabled": true
+    },
+    {
       "name": "Subterranean",
+      "enabled": true
+    },
+    {
+      "name": "Switch_Button",
       "enabled": true
     },
     {
@@ -334,6 +362,10 @@
     },
     {
       "name": "TrainSpeedLimit-016",
+      "enabled": true
+    },
+    {
+      "name": "TrainToggle",
       "enabled": true
     },
     {
