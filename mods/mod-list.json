@@ -189,6 +189,10 @@
       "enabled": true
     },
     {
+      "name": "CoppermineBobModuleRebalancing",
+      "enabled": true
+    },
+    {
       "name": "crafting_combinator",
       "enabled": true
     },
@@ -261,10 +265,6 @@
       "enabled": true
     },
     {
-      "name": "Larger Inventory Updated",
-      "enabled": true
-    },
-    {
       "name": "LightedPolesPlus",
       "enabled": true
     },
@@ -334,6 +334,10 @@
     },
     {
       "name": "smoother-start",
+      "enabled": true
+    },
+    {
+      "name": "SpaceMod",
       "enabled": true
     },
     {
