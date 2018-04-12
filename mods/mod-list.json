@@ -93,7 +93,15 @@
       "enabled": true
     },
     {
+      "name": "BetterBots",
+      "enabled": true
+    },
+    {
       "name": "Big_Brother",
+      "enabled": true
+    },
+    {
+      "name": "Big_Brother_Bobs_plugin",
       "enabled": true
     },
     {
@@ -205,6 +213,10 @@
       "enabled": true
     },
     {
+      "name": "Enhanced_Map_Colors",
+      "enabled": true
+    },
+    {
       "name": "EvoGUI",
       "enabled": true
     },
@@ -305,6 +317,10 @@
       "enabled": true
     },
     {
+      "name": "Nuclear_Artillery",
+      "enabled": true
+    },
+    {
       "name": "Orbital Ion Cannon",
       "enabled": true
     },
@@ -329,11 +345,23 @@
       "enabled": true
     },
     {
+      "name": "ShinyAngelGFX",
+      "enabled": true
+    },
+    {
+      "name": "ShinyBobGFX",
+      "enabled": true
+    },
+    {
       "name": "ShinyIcons",
       "enabled": true
     },
     {
       "name": "smoother-start",
+      "enabled": true
+    },
+    {
+      "name": "Soundpack-alerts-and-sirens",
       "enabled": true
     },
     {
